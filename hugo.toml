@@ -1,0 +1,49 @@
+baseURL = "https://goattrails.github.io"
+theme = ["github.com/tomowang/hugo-theme-tailwind"]
+title = "Goat Trail Junkies"
+author = "Goat Trail Junkies"
+copyright = "Goat Trail Junkies; All rights reserved."
+# paginate = 3
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+cleanDestinationDir = true
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
+sectionPagesMenu = "main"
+
+[permalinks]
+  posts = "/posts/:year-:month-:slug/"
+  events = "/events/:year-:month-:day-:slug/"
+
+[sitemap]
+  changefreq = "hourly"
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+#[markup.tableOfContents]
+#  endLevel   = 6
+#  ordered    = false
+#  startLevel = 1
+
+[params]
+  subtitle = "Motorcycle Ride Events and Route Library"
+  keywords = "goat trails junkies, motorcycle rides, motorcycle events"
+
+# tailwind specific configuration
+  contentTypeName = "events"
+  toc = false
+  showReadingTime = false
+  DateFormatList = "Mon Jan _2 3:04 pm MST 2006"
+  [params.header]
+    logo = "images/goat.jpg"
+  [params.footer]
+    since = 2023
+    poweredby = false
+
+[menus]
+  [[menus.main]]
+    name = "Photos"
+    URL = "https://example.com"
