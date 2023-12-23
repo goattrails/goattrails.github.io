@@ -15,9 +15,7 @@ and Kruse Ranch Rd.
 
 <!--more-->
 
-![](goat.jpg)
-
-{{< figure src="fort-ross.jpg" >}}
+![Fort Ross Chapel](fort-ross.jpg)
 
 * **WHEN:** Meet 8:45 AM **(KSU 9:15AM sharp!)**
 * **WHERE:** [Peet's Coffee](https://goo.gl/maps/Nr19wF2eEhyFY9L28),
@@ -51,5 +49,3 @@ and Kruse Ranch Rd.
 
 * 07/30/23: Sunrise: 06:11, Starts: 09:15, Ends: 17:41, Sunset: 20:20
 * Total distance: 195.52 mi
-
-  ![]()
