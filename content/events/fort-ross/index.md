@@ -15,7 +15,7 @@ and Kruse Ranch Rd.
 
 <!--more-->
 
-![Fort Ross Chapel](fort-ross.jpg "title")
+![Fort Ross Chapel](fort-ross.jpg "Fort Ross Chapel")
 
 * **WHEN:** Meet 8:45 AM **(KSU 9:15AM sharp!)**
 * **WHERE:** [Peet's Coffee](https://goo.gl/maps/Nr19wF2eEhyFY9L28),
