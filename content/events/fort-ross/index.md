@@ -1,4 +1,5 @@
 ---
+draft: false
 author: Paul Traina
 title: Fort Ross Road Ramble
 date: 2023-07-30T08:45:00-07:00
@@ -11,7 +12,10 @@ A twisty ride up to Guerneville and north featuring Fort Ross Rd.
 and Kruse Ranch Rd.
 
 *Expect up to 4 miles of well groomed dirt roads.*
+
 <!--more-->
+
+![](goat.jpg)
 
 {{< figure src="fort-ross.jpg" >}}
 
@@ -29,21 +33,23 @@ and Kruse Ranch Rd.
 * Ride ends at [Starbucks](https://goo.gl/maps/BrJcXxdC16p3T3iB7) :coffee:,
   800 Strawberry Village Shopping Center *(not the one in Safeway)*
 * **HOW:**
-  [GPX]({{< gpxref >}})
+  \[GPX]({{< gpxref >}})
   [Scenic](https://scenicapp.space/route/ByyIxbmz)
 
 {{< gpxmap >}}
 
-| Name                           |   Dist. | G |  ETA  | Notes
-| :----------------------------- | ------: | - | ----: | :----
-| Peet's Coffee Northgate Mall   |       0 |   | 09:15 | Restaurant
-| Nicasio Square                 |      12 |   | 09:39 | Restroom (+0:15)
-| Pat's International            |      65 | L | 11:41 | Restaurant (+1:00)
-| 76 Guerneville                 |   65/65 | G | 12:41 | Gas Station (+0:15)
-| Willy's America                |      79 |   | 13:23 | Truck (+0:05)
-| 76 Bodega Bay                  |  67/132 | G | 15:14 | Gas Station (+0:15)
-| Point Reyes Station            |     165 |   | 16:36 | Restroom (+0:05)
-| Starbucks Strawberry Village   |  63/195 |   | 17:41 | Restaurant
+| Name                         | Dist.  | G   | ETA   | Notes               |
+| ---------------------------- | ------ | --- | ----- | ------------------- |
+| Peet's Coffee Northgate Mall | 0      |     | 09:15 | Restaurant          |
+| Nicasio Square               | 12     |     | 09:39 | Restroom (+0:15)    |
+| Pat's International          | 65     | L   | 11:41 | Restaurant (+1:00)  |
+| 76 Guerneville               | 65/65  | G   | 12:41 | Gas Station (+0:15) |
+| Willy's America              | 79     |     | 13:23 | Truck (+0:05)       |
+| 76 Bodega Bay                | 67/132 | G   | 15:14 | Gas Station (+0:15) |
+| Point Reyes Station          | 165    |     | 16:36 | Restroom (+0:05)    |
+| Starbucks Strawberry Village | 63/195 |     | 17:41 | Restaurant          |
 
 * 07/30/23: Sunrise: 06:11, Starts: 09:15, Ends: 17:41, Sunset: 20:20
 * Total distance: 195.52 mi
+
+  ![]()
