@@ -13,7 +13,7 @@ and Kruse Ranch Rd.
 
 *Expect up to 4 miles of well groomed dirt roads.*
 
-<!--more-->
+<!-- more -->
 
 ![Fort Ross Chapel](fort-ross.jpg)
 
@@ -31,7 +31,7 @@ and Kruse Ranch Rd.
 * Ride ends at [Starbucks](https://goo.gl/maps/BrJcXxdC16p3T3iB7) :coffee:,
   800 Strawberry Village Shopping Center *(not the one in Safeway)*
 * **HOW:**
-  \[GPX]({{< gpxref >}})
+  [GPX]({{< gpxref >}})
   [Scenic](https://scenicapp.space/route/ByyIxbmz)
 
 {{< gpxmap >}}
