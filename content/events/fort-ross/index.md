@@ -31,7 +31,7 @@ and Kruse Ranch Rd.
 * Ride ends at [Starbucks](https://goo.gl/maps/BrJcXxdC16p3T3iB7) :coffee:,
   800 Strawberry Village Shopping Center *(not the one in Safeway)*
 * **HOW:**
-  \[GPX]({{< gpxref >}})
+  [GPX](fort-ross.gpx)
   [Scenic](https://scenicapp.space/route/ByyIxbmz)
 
 {{< gpxmap >}}
