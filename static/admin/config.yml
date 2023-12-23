@@ -45,9 +45,11 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Event Date", name: "date", widget: "datetime"}
       - {label: "Publish Date", name: "publishDate", widget: "datetime", hint: "When to start showing article"}
-      - {label: "Region", name: "tags", widget: "list", hint: "Region(s) where event is occurring e.g. north-bay"}
-#      - {label: "Categories", name: "categories", widget: "list", allow_add: false, collapsed: true, default: ["investments", "grants"]}
-      - {lable: "GPX file", name: "gpxfile", widget: "file", required: false }
+      - {label: "Region", name: "tags", widget: "select", multiple: true, min: 1,
+         hint: "Region(s) where event is occurring e.g. north-bay",
+         options: ["north-bay", "east-bay", "south-bay", "sierra", "norcal", "socal", "multi-state", "multi-day"]}
+#     - {label: "Categories", name: "categories", widget: "list", allow_add: false, collapsed: true}
+      - {label: "GPX file", name: "gpxfile", widget: "file", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "news" # Used in routes, e.g., /admin/collections/blog
