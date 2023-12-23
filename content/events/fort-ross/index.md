@@ -30,9 +30,7 @@ and Kruse Ranch Rd.
   [La Bodeguita Mexican](https://goo.gl/maps/BrJcXxdC16p3T3iB7) :burrito:
 * Ride ends at [Starbucks](https://goo.gl/maps/BrJcXxdC16p3T3iB7) :coffee:,
   800 Strawberry Village Shopping Center *(not the one in Safeway)*
-* **HOW:**
-  [GPX]({{< gpxref >}})
-  [Scenic](https://scenicapp.space/route/ByyIxbmz)
+* **HOW:** [GPX]({{< gpxref >}}) [Scenic](https://scenicapp.space/route/ByyIxbmz)
 
 {{< gpxmap >}}
 
